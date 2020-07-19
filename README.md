@@ -10,3 +10,11 @@ A Natural Intelligence trained for collaborative problem solving with an emphasi
 | Detail-Oriented | <ul><li>Strives to make things clear/explicit</li><li>Readily catches little defects</li></ul> | <ul><li>Can take time from more valuable work</li><li>Low tolerance for ambiguity</li></ul> |
 | Theoretical Situation Awareness | <ul><li>Often pattern matches quickly</li><li>Can provide useful narrative</li></ul> | <ul><li>Risks over-indexing on one specific factor</li></ul> |
 | Sensitive Emotional Awareness | <ul><li>Empathizes/attunes easily</li><li>Usually approachable</li><li>Service-oriented</li></ul> | <ul><li>Sometimes manufactures drama</li></ul> |
+
+## Contributing
+We're delighted to receive any and all contributions!
+
+We've fitted Johnryan with an array of Feedback Sensors:
+
+- synchronously, candid feedback of all kinds is most welcome;
+- asynchronous feedback through our [anonymous feedback form](https://forms.gle/N6efS8gTPT7gnC459) or Slack/Email/[Twitter](https://twitter.com/jtigger).
