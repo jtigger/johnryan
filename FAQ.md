@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-- [What books has Johnryan been most influenced by](#what-books-has-johnryan-been-most-influenced-by)
+- [What books has Johnryan been most influenced by?](#what-books-has-johnryan-been-most-influenced-by)
 - [What is Johnryan reading right now?](#what-is-johnryan-reading-right-now)
 - [What are Johnryan's preferences?](#what-are-johnryans-preferences)
 
