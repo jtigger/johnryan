@@ -28,7 +28,7 @@ _(subject to change.)_
 
 - Depending on his mood: [blue](https://www.icloud.com/sharedalbum/#B0qGY8gBYGU6c0L), [green](https://www.icloud.com/sharedalbum/#B0q5nhQSTdvfPm), or [purple](https://www.icloud.com/sharedalbum/#B0qG6XBubGfI82K)
 - [Joanna Rubiner](https://www.joannarubiner.com/)
-- [Coffee](https://docs.google.com/document/d/179gim4eZeKmb4i-mCOUW5QL4taN1f61DiRGdxOW3fyg/edit#)
+- [Coffee](https://docs.google.com/document/d/179gim4eZeKmb4i-mCOUW5QL4taN1f61DiRGdxOW3fyg)
 - [Mint Chocolate Chip ice-cream](https://www.becomebetty.com/trader-joes-mint-chip-ice-cream/)
 - [Braised leeks](https://www.epicurious.com/recipes/food/views/braised-leeks-with-lemon-10099)
 - [Roscoe's Chicked and Waffles](https://www.roscoeschickenandwaffles.com/)
