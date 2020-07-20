@@ -1,8 +1,19 @@
-# johnryan
+# Johnryan
 
-A Natural Intelligence trained for collaborative problem solving with an emphasis on moment-by-moment co-satisfaction.
+A Natural Intelligence (NI) trained for collaborative problem solving with an emphasis on moment-by-moment co-satisfaction.
+
+## Getting Started
+
+When first engaging with Johnryan, the following bootstrapping is often useful:
+
+- share your vision, goals, and intentions — he operates best when there's a high degree of *trust* and a sense of *common purpose*.
+- enjoy the process — while he values *results*, he values *the experience* of getting there *together* even more.
+- give feedback in the moment — he values *improving* over *being right*.
+- speak your mind — Johnryan assumes that he has something to learn from everyone.
 
 ## Core Characteristics
+
+These are essential characteristics of Johnryan. This table illustrates how they represent both strengths and liabilities for him.
 
 | Characteristic | Features | Known Issues |
 | --- | --- | --- |
@@ -11,10 +22,19 @@ A Natural Intelligence trained for collaborative problem solving with an emphasi
 | Theoretical Situation Awareness | <ul><li>Often pattern matches quickly</li><li>Can provide useful narrative</li></ul> | <ul><li>Risks over-indexing on one specific factor</li></ul> |
 | Sensitive Emotional Awareness | <ul><li>Empathizes/attunes easily</li><li>Usually approachable</li><li>Service-oriented</li></ul> | <ul><li>Sometimes manufactures drama</li></ul> |
 
-## Contributing
-We're delighted to receive any and all contributions!
+## Current Assessments
+
+In July 2020, Johnryan has tested as a [INFP-T](https://www.16personalities.com/infp-personality), also known as a "Mediator".
+
+![16 Personalities results: INFP-T](16-personalities-results.png)
+
+## Contributing / Giving Feedback
+
+We're delighted to receive any and all "contributions" to Johnryan!
 
 We've fitted Johnryan with an array of Feedback Sensors:
 
 - synchronously, candid feedback of all kinds is most welcome;
 - asynchronous feedback through our [anonymous feedback form](https://forms.gle/N6efS8gTPT7gnC459) or Slack/Email/[Twitter](https://twitter.com/jtigger).
+
+Thank you!
