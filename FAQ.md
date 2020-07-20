@@ -15,7 +15,7 @@ Many. Here's the top of that list:
 2. [Napkin Notes: On the Art of Living](https://www.goodreads.com/book/show/384316.Napkin_Notes) by G. Michael Durst
 3. [The Trusted Advisor](https://www.goodreads.com/book/show/873993.The_Trusted_Advisor) by David H. Maister, Charles H. Green, Robert M. Galford
 4. [Tempo: Timing, Tactics, and Strategy in Narrative-Driven Decision-Making](https://www.ribbonfarm.com/tempo/) by Venkatesh Rao
-5. [Finite and Infinite Games](https://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games)
+5. [Finite and Infinite Games](https://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games) by James P. Carse
 
 ## What is Johnryan reading right now?
 
