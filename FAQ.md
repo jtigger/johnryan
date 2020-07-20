@@ -1,5 +1,12 @@
 # Frequently Asked Questions
 
+- [What books has Johnryan been most influenced by](#what-books-has-johnryan-been-most-influenced-by)
+- [What is Johnryan reading right now?](#what-is-johnryan-reading-right-now)
+- [What are Johnryan's preferences?](#what-are-johnryans-preferences)
+
+
+----
+
 ## What books has Johnryan been most influenced by?
 
 Many. Here's the top of that list:
@@ -19,14 +26,12 @@ Many. Here's the top of that list:
 
 _(subject to change.)_
 
-- Depending on his mood: green, blue, or purple
+- Depending on his mood: blue, green, or [purple](https://www.icloud.com/sharedalbum/#B0qG6XBubGfI82K)
+- [Joanna Rubiner](https://www.joannarubiner.com/)
+- [Coffee](https://docs.google.com/document/d/179gim4eZeKmb4i-mCOUW5QL4taN1f61DiRGdxOW3fyg/edit#)
 - [Mint Chocolate Chip ice-cream](https://www.becomebetty.com/trader-joes-mint-chip-ice-cream/)
-- [Ethiopian varieties of Coffea Arabica]()
-- Bar Nine
-- vim
-- Ubuntu
-- Go
-- kind
-- braised leeks
-- Roscoe's Chicked and Waffles
-- ...
+- [Braised leeks](https://www.foxandbriar.com/braised-leeks/)
+- [Roscoe's Chicked and Waffles](https://www.roscoeschickenandwaffles.com/)
+- [vim](https://www.vim.org/)
+- [Goland](https://www.jetbrains.com/go/)
+
