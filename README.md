@@ -22,6 +22,8 @@ These are essential characteristics of Johnryan. This table illustrates how they
 | Theoretical Situation Awareness | <ul><li>Often pattern matches quickly</li><li>Can provide useful narrative</li></ul> | <ul><li>Risks over-indexing on one specific factor</li></ul> |
 | Sensitive Emotional Awareness | <ul><li>Empathizes/attunes easily</li><li>Usually approachable</li><li>Service-oriented</li></ul> | <ul><li>Sometimes manufactures drama</li></ul> |
 
+See also our [FAQ](FAQ.md).
+
 ## Current Assessments
 
 In July 2020, Johnryan has tested as a [INFP-T](https://www.16personalities.com/infp-personality), also known as a "Mediator".
