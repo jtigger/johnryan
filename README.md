@@ -32,6 +32,10 @@ In July 2020, Johnryan has tested as a [INFP-T](https://www.16personalities.com/
 
 We're delighted to receive any and all "contributions" to Johnryan!
 
+For details about aspects of Johnryan currently being developed, checkout [our backlog](https://github.com/jtigger/johnryan/issues).
+- feedback related to those issues can help steer those improvements.
+- something missing? Create an issue or submit a suggestion through our [anonymous feedback form](https://forms.gle/N6efS8gTPT7gnC459).
+
 We've fitted Johnryan with an array of Feedback Sensors:
 
 - synchronously, candid feedback of all kinds is most welcome;
