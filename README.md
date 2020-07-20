@@ -6,10 +6,10 @@ A Natural Intelligence (NI) trained for collaborative problem solving with an em
 
 When first engaging with Johnryan, the following bootstrapping is often useful:
 
-- share your vision, goals, and intentions — he operates best when there's a high degree of *trust* and a sense of *common purpose*.
-- enjoy the process — while he values *results*, he values *the experience* of getting there *together* even more.
-- give feedback in the moment — he values *improving* over *being right*.
-- speak your mind — Johnryan assumes that he has something to learn from everyone.
+- **share your vision, goals, and intentions** — he operates best when there's a high degree of *trust* and a sense of *common purpose*.
+- **enjoy the process** — while he values *results*, he values *the experience* of getting there *together* even more.
+- **give feedback in the moment** — he values *improving* over *being right*.
+- **speak your mind** — Johnryan assumes that he has something to learn from everyone.
 
 ## Core Characteristics
 
