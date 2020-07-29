@@ -15,12 +15,12 @@ When first engaging with Johnryan, the following bootstrapping is often useful:
 
 These are essential characteristics of Johnryan. This table illustrates how they represent both strengths and liabilities for him.
 
-| Characteristic | Features | Known Issues |
-| --- | --- | --- |
-| External [Locus of Control](https://en.wikipedia.org/wiki/Locus_of_control) | <ul><li>Can make space for you to shine</li><li>Usually open-minded & coachable</li><li>Can see environmental factors quickly</li><li>Often monitors and manages small groups well</li></ul> | <ul><li>Sometimes holds back when driving is better</li><li>May over-credit others</li><li>Risks over-valuing reputation</li><li>Can get distracted by shiny objects</li></ul> |
-| Detail-Oriented | <ul><li>Strives to make things clear/explicit</li><li>Readily catches little defects</li></ul> | <ul><li>Can take time from more valuable work</li><li>Low tolerance for ambiguity</li></ul> |
-| Theoretical [Situation Awareness](https://en.wikipedia.org/wiki/Situation_awareness) | <ul><li>Often pattern matches quickly</li><li>Can provide useful narrative</li></ul> | <ul><li>Risks over-indexing on one specific factor</li></ul> |
-| Accommodating [Conflict Management](https://open.lib.umn.edu/communication/chapter/6-2-conflict-and-interpersonal-communication/) | <ul><li>Empathizes/attunes easily</li><li>Usually approachable</li><li>Service-oriented</li></ul> | <ul><li>Sometimes manufactures drama</li><li>Tends to avoid conflict</li></ul> |
+| Characteristic | Features | Known Issues | Current Objective(s) |
+| --- | --- | --- | --- |
+| External [Locus of Control](https://en.wikipedia.org/wiki/Locus_of_control) | <ul><li>Can make space for you to shine</li><li>Usually open-minded & coachable</li><li>Can see environmental factors quickly</li><li>Often monitors and manages small groups well</li></ul> | <ul><li>Sometimes holds back when driving is better</li><li>May over-credit others</li><li>Risks over-valuing reputation</li><li>Can get distracted by shiny objects</li></ul> | <ul><li>[Increase Objectivity #1](https://github.com/jtigger/johnryan/issues/1)</li></ul> |
+| Detail-Oriented | <ul><li>Strives to make things clear/explicit</li><li>Readily catches little defects</li></ul> | <ul><li>Can take time from more valuable work</li><li>Low tolerance for ambiguity</li></ul> | <ul><li>[Increase Bias Towards Action #2](https://github.com/jtigger/johnryan/issues/2)</li></ul> |
+| Theoretical [Situation Awareness](https://en.wikipedia.org/wiki/Situation_awareness) | <ul><li>Often pattern matches quickly</li><li>Can provide useful narrative</li></ul> | <ul><li>Risks over-indexing on one specific factor</li></ul> | <ul><li>[Increase Objectivity #1](https://github.com/jtigger/johnryan/issues/1)</li><li>[Increase creative synthesis through better information retention #3](https://github.com/jtigger/johnryan/issues/3)</li></ul> |
+| Accommodating [Conflict Management](https://open.lib.umn.edu/communication/chapter/6-2-conflict-and-interpersonal-communication/) | <ul><li>Empathizes/attunes easily</li><li>Usually approachable</li><li>Service-oriented</li></ul> | <ul><li>Sometimes manufactures drama</li><li>Tends to avoid conflict</li></ul> | <ul><li>[Increase Objectivity #1](https://github.com/jtigger/johnryan/issues/1)</li></ul> |
 
 See also our [FAQ](FAQ.md).
 
