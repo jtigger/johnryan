@@ -1,26 +1,78 @@
 # Johnryan
 
-A Natural Intelligence (NI) trained for collaborative problem solving with an emphasis on moment-by-moment co-satisfaction.
+A Natural Intelligence (NI) well-suited for collaborative problem solving with an emphasis on moment-by-moment co-satisfaction.
 
 ## Getting Started
 
 When first engaging with Johnryan, the following bootstrapping is often useful:
 
 - **share your vision, goals, and intentions** — he operates best when there's a high degree of *trust* and a sense of *common purpose*.
-- **enjoy the process** — while he values *results* most of their meaning comes from getting there *together*.
-- **give feedback in the moment** — he values *learning* over *being right*.
+- **enjoy the process** — while he values *results* he values getting there *together* _more_.
+- **give feedback in the moment** — he values *learning* _over_ *being right*.
 - **speak your mind** — Johnryan assumes that he has something to learn from everyone.
 
 ## Core Characteristics
 
-These are essential characteristics of Johnryan. This table illustrates how they represent both strengths and liabilities for him.
+The current version of Johnryan exhibits the following traits:
 
-| Characteristic | Features | Known Issues | Current Improvements(s) |
-| --- | --- | --- | --- |
-| External [Locus of Control](https://en.wikipedia.org/wiki/Locus_of_control) | <ul><li>Can make space for you to shine</li><li>Usually open-minded & coachable</li><li>Can see environmental factors quickly</li><li>Often monitors and manages small groups well</li></ul> | <ul><li>Sometimes holds back when driving is better</li><li>May over-credit others</li><li>Risks over-valuing reputation</li><li>Can get distracted by shiny objects</li></ul> | <ul><li>[Increase Objectivity](https://github.com/jtigger/johnryan/projects/3)</li></ul> |
-| Detail-Oriented | <ul><li>Strives to make things clear/explicit</li><li>Readily catches little defects</li></ul> | <ul><li>Can take time from more valuable work</li><li>Low tolerance for ambiguity</li></ul> | <ul><li>[Increase Bias Towards Action](https://github.com/jtigger/johnryan/projects/2)</li></ul> |
-| Theoretical [Situation Awareness](https://en.wikipedia.org/wiki/Situation_awareness) | <ul><li>Often pattern matches quickly</li><li>Can provide useful narrative</li></ul> | <ul><li>Risks over-indexing on one specific factor</li></ul> | <ul><li>[Increase Objectivity](https://github.com/jtigger/johnryan/projects/3)</li><li>[Increase creative synthesis through better information retention](https://github.com/jtigger/johnryan/projects/1)</li></ul> |
-| Accommodating [Conflict Management](https://open.lib.umn.edu/communication/chapter/6-2-conflict-and-interpersonal-communication/) | <ul><li>Empathizes/attunes easily</li><li>Usually approachable</li><li>Service-oriented</li></ul> | <ul><li>Sometimes manufactures drama</li><li>Tends to avoid conflict</li></ul> | <ul><li>[Increase Objectivity](https://github.com/jtigger/johnryan/projects/3)</li></ul> |
+### External [Locus of Control](https://en.wikipedia.org/wiki/Locus_of_control)
+
+_Johnryan believes that the environment and other's behaviors have a greater influence over outcomes than his own behaviors._
+
+As a "strength":
+- inclusive — you naturally have room to contribute
+- open-minded & coachable — you can more easily+safely share your perspective
+- monitors and manages small group dynamics well — encourages collaboration within your team
+
+As a "weakness":
+- is succeptible to [analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis) — needs a push to act
+- gets distracted by shiny objects — needs reminders of priorities
+
+Active Development:
+- [Increase Objectivity](https://github.com/users/jtigger/projects/2/views/1)
+
+### Detail-Oriented
+
+_Johnryan executes methodically with discipline._
+
+As a "strength":
+- contributes high-quality product — fewer defects for you to deal with
+- makes things clear/explicit — easier to understand what he did
+
+As a "weakness":
+- produces at a lower velocity — needs a reminder of what's "good enough"
+- can get stuck in ambiguity — needs a nudge to assume for now
+
+Active Development:
+
+- [Increase Bias Towards Action](https://github.com/users/jtigger/projects/3)
+
+### [Situation Awareness](https://en.wikipedia.org/wiki/Situation_awareness)
+
+As a "strength":
+- Often pattern matches quickly
+- Can provide useful narrative
+
+As a "weakness":
+- Risks over-indexing on one specific factor
+
+Active Development:
+- [Increase Objectivity](https://github.com/users/jtigger/projects/2/views/1)
+- [Increase creative synthesis through better information retention](https://github.com/jtigger/johnryan/projects/1)
+
+### Accommodating [Conflict Management](https://open.lib.umn.edu/communication/chapter/6-2-conflict-and-interpersonal-communication/)
+
+As a "strength":
+- Empathizes/attunes easily
+- Usually approachable
+- Service-oriented
+
+As a "weakness":
+- Sometimes manufactures drama
+- Tends to avoid conflict
+
+Active Development:
+- [Increase Objectivity](https://github.com/users/jtigger/projects/2/views/1)
 
 See also our [FAQ](FAQ.md).
 
